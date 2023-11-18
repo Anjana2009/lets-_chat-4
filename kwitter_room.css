@@ -1,0 +1,9 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+body
+{
+    background-image: linear-gradient(to right top,Violet ,  Violet  , rgb(59, 135, 197)  , rgb(59, 135, 197)  );
+}
